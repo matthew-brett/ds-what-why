@@ -45,6 +45,9 @@ suppress-bibliography: true
   science](http://www.ds100.org) with further requirements in Python programming and linear algebra.
 * [27 Connector courses](https://data.berkeley.edu/education/connectors):
   domain applications of teaching methods from the foundation course.
+* "... embracing a reinvention of statistical education in the era of
+  pervasive computation." [Report by Data science education rapid reaction
+  team](https://data.berkeley.edu/sites/default/files/datasciencecurriculumsketch.pdf)
 * The greatest change in undergraduate teaching in a generation.
 
 # Data 8 elements
@@ -53,8 +56,8 @@ suppress-bibliography: true
     math that it took you to get to UC:
     *   No Math or Programming Background Required
 *   **Easy to Access** - There is an easy-to-use computing platform that is
-    integrated into every aspect of the course and works on any browser with no
-    technical requirements
+    integrated into every aspect of the course and works on any browser with
+    no technical requirements
     *   No specific computer, software license, install needed
 *   **Coding and Statistics** - There are advantages to learning coding at the
     same time as learning statistics  - *Computational Thinking, Inferential
@@ -74,15 +77,31 @@ suppress-bibliography: true
 * Teaching statistics "assuming computers exist, rather than assuming they
   don't exist."
 * "Express in code what we would otherwise express in equations."
-* Data 8 is a required course for public health.
 
-# Undergraduate data science at UoB
+# A demo
+
+To follow along:
+<https://mybinder.org/v2/gh/matthew-brett/ds-rev/master?filepath=robert_swain.ipynb>
+
+# Undergraduate data science at the University of Birmingham
 
 * 2017: Bioscience second year undergraduates; Introduction to R programming language.
 * 2018: ["Data science for everyone" WHM](https://matthew-brett.github.io/dsfe2019)
 * 2018: Geography first year undergraduates; Introduction to R.
 * 2019: [Introduction to programming](https://matthew-brett.github.io/cfd2019)
   second-year undergraduate / MSc module (10 UK credits, run over one term).
+* Plans to extend this approach across modules and schools.
+
+# What do we need?
+
+* debate
+* vision
+* mechanism
+
+# What can we do?
+
+* CPD to explain pedagogy.
+* Harness commitment from faculty and students.
 
 <#ifdef HANDOUT>
 # References

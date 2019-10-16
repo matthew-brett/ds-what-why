@@ -1,5 +1,7 @@
 # The data science revolution in education: a report from the front lines
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthew-brett/ds-rev/master?filepath=robert_swain.ipynb)
+
 Talk to the Higher Education Futures Initiative, University of Birmingham, Thursday October 17th 2019, 13:30-15:00.
 
 ## Abstract
@@ -45,6 +47,7 @@ Their more advanced course is Data 100: Principles and Techniques of Data Scienc
 * [Data science Major
   Webinar](https://www.youtube.com/watch?v=5KCNaA2MfoU&feature=youtu.be) - and
   [webinar materials](https://github.com/papajohn/dse-cal-data-science).
+* [Berkeley white-paper on undergraduate data science](https://data.berkeley.edu/sites/default/files/datasciencecurriculumsketch.pdf).
 * [Data science for everyone textbook / class
   pages](https://matthew-brett.github.io/dsfe2019): a University of Birmingham
   first-year optional module (20 UK credits, run over two terms).
