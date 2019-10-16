@@ -1,0 +1,117 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .Rmd
+      format_name: rmarkdown
+      format_version: '1.0'
+      jupytext_version: 0.8.4
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+  language_info:
+    codemirror_mode:
+      name: ipython
+      version: 3
+    file_extension: .py
+    mimetype: text/x-python
+    name: python
+    nbconvert_exporter: python
+    pygments_lexer: ipython3
+    version: 3.7.0
+---
+
+# Robert Swain's jury
+
+```{python}
+import numpy as np
+import numpy.random as npr
+import matplotlib.pyplot as plt
+plt.style.use('fivethirtyeight')
+# %matplotlib inline
+```
+
+```{python}
+npr.uniform()
+```
+
+```{python}
+juror = npr.uniform()
+juror
+```
+
+```{python}
+juror < 0.26
+```
+
+```{python}
+juror = npr.uniform()
+juror < 0.26
+```
+
+```{python}
+jurors = npr.uniform(size=12)
+jurors
+```
+
+```{python}
+jurors = npr.uniform(size=12)
+jurors < 0.26
+```
+
+```{python}
+jurors = npr.uniform(size=12)
+is_black = jurors < 0.26
+is_black
+```
+
+```{python}
+jurors = npr.uniform(size=12)
+is_black = jurors < 0.26
+np.count_nonzero(is_black)
+```
+
+```{python}
+counts = np.zeros(10, int)
+counts
+```
+
+```{python}
+counts = np.zeros(10, int)
+for i in range(10):
+    jurors = npr.uniform(size=12)
+    is_black = jurors < 0.26
+    counts[i] = np.count_nonzero(is_black)
+counts
+```
+
+```{python}
+counts == 0
+```
+
+```{python}
+np.count_nonzero(counts == 0)
+```
+
+```{python}
+counts = np.zeros(10000, int)
+for i in range(10000):
+    jurors = npr.uniform(size=12)
+    is_black = jurors < 0.26
+    counts[i] = np.count_nonzero(is_black)
+counts
+```
+
+```{python}
+plt.hist(counts);
+```
+
+```{python}
+n_with_0_black = np.count_nonzero(counts == 0)
+n_with_0_black
+```
+
+```{python}
+n_with_0_black / 10000
+```
