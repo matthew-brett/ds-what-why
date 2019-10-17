@@ -195,7 +195,7 @@ Ani Adhikari - slide deck from [2019 conference](https://data.berkeley.edu/acade
 
 # The end
 
-Materials at <https://github.com/matthew-brett/ds-rev>
+Materials at <http://bit.ly/hefi_ds>.
 
 <#ifdef HANDOUT>
 # References
