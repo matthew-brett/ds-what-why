@@ -24,7 +24,6 @@ Professor Sir Adrian Smith, Director of Turing Institute, October 2019.
 
 * What is data science?
 * What should we teach?
-* What is it going to look like?
 
 # Data science in Berkeley
 
@@ -113,6 +112,10 @@ Ani Adhikari - slide deck from [2019 conference](https://data.berkeley.edu/acade
 
 To follow along: <http://bit.ly/swains_jury>
 
+# It's huge
+
+![](images/data8_zellerbach.png)
+
 # Students, Spring 2019
 
 * 49% first-years, 35% second-years
@@ -150,6 +153,10 @@ materials](https://github.com/papajohn/dse-cal-data-science)
 * Data manipulation helped change literally how I see the world.
 
 Ani Adhikari - slide deck from [2019 conference](https://data.berkeley.edu/academics/resources/data-science-education-workshops/2019-national-workshop-data-science-education)
+
+# Spreading across campus
+
+![](images/connectors.png)
 
 # Coding is not a specialist skill
 
