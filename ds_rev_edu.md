@@ -16,8 +16,9 @@ suppress-bibliography: true
 @natacad2018ds
 
 > I think it likely that in ten years’ time every undergraduate programme will
-> have to include some teaching in data science -- Professor Sir Adrian Smith,
-> Director of Turing Institute, October 2019.
+> have to include some teaching in data science.
+
+Professor Sir Adrian Smith, Director of Turing Institute, October 2019.
 
 # But:
 
@@ -70,7 +71,8 @@ suppress-bibliography: true
 *   **Re-Sampling** - guide students towards non-parametric approaches by
     motivating resampling for hypothesis testing
 
-(Thanks to Eric Van Dusen, 2019 Data Science Conference slide deck)
+Eric Van Dusen - slide deck from [2019
+conference](https://data.berkeley.edu/academics/resources/data-science-education-workshops/2019-national-workshop-data-science-education)
 
 # Principles of the course
 
@@ -78,10 +80,98 @@ suppress-bibliography: true
   don't exist."
 * "Express in code what we would otherwise express in equations."
 
+John DeNero, [2018
+Webinar](https://www.youtube.com/watch?v=5KCNaA2MfoU&feature=youtu.be)
+
+# Analyzing data: the three main steps
+
+* The question, from some domain; reasonable assumptions about the data;
+  choice of method
+* Visualization and calculations
+* Interpretation of the results in the language of the domain, without
+  statistical jargon
+
+Ani Adhikari - slide deck from [2019 conference](https://data.berkeley.edu/academics/resources/data-science-education-workshops/2019-national-workshop-data-science-education)
+
+# The old approach
+
+* The question, from some domain; reasonable assumptions about the data;
+  choice of method
+* Visualization and **calculations**
+* Interpretation of the results in the language of the domain, without
+  statistical jargon
+
+# Data 8, extending the Berkeley approach
+
+* The question, from some domain; reasonable assumptions about the data;
+  choice of method
+* Visualization and computation
+* Interpretation of the results in the language of the domain, without
+  statistical jargon
+
 # A demo
 
-To follow along:
-<https://mybinder.org/v2/gh/matthew-brett/ds-rev/master?filepath=robert_swain.ipynb>
+To follow along: <http://bit.ly/swains_jury>
+
+# Students, Spring 2019
+
+* 49% first-years, 35% second-years
+* 55% female
+* 21% consider themselves to be a member of an underrepresented ethnic or
+  racial minority within UC Berkeley
+* Over 60 different majors
+* At the start of the term, 38% said, “I have no skill at programming”
+
+Ani Adhikari - slide deck from [2019 conference](https://data.berkeley.edu/academics/resources/data-science-education-workshops/2019-national-workshop-data-science-education)
+
+# Students, Spring 2017
+
+![](images/data8_pie.png){height=70%}
+
+Wide range of majors, > 14% slices are economics, computer science --
+John DeNero, [2018 Webinar
+materials](https://github.com/papajohn/dse-cal-data-science)
+
+# Student feedback
+
+![](images/data8_how_happy.png)
+
+John DeNero, [2018 Webinar
+materials](https://github.com/papajohn/dse-cal-data-science)
+
+# Student feedback, Spring 2019
+
+* I never thought I would ever code or program but this class made it really
+  approachable.
+* Learn\[ed\] to code in a way that I feel will actually be useful for me in
+  the future, even as someone in a social sciences major.
+* Loved the problem-solving skills this class taught me and how Data 8 showed
+  me the various ways data science could be applied to multiple disciplines!
+* Data manipulation helped change literally how I see the world.
+
+Ani Adhikari - slide deck from [2019 conference](https://data.berkeley.edu/academics/resources/data-science-education-workshops/2019-national-workshop-data-science-education)
+
+# Coding is not a specialist skill
+
+* understand what algorithms are, how they are implemented as programs on
+  digital devices, and that programs execute by following precise and
+  unambiguous instructions;
+* create and debug simple programs;
+* use logical reasoning to predict the behaviour of simple programs
+* use technology purposefully to create, organise, store, manipulate and
+  retrieve digital content
+
+# Coding is not a specialist skill
+
+* understand what algorithms are, how they are implemented as programs on
+  digital devices, and that programs execute by following precise and
+  unambiguous instructions;
+* create and debug simple programs;
+* use logical reasoning to predict the behaviour of simple programs
+* use technology purposefully to create, organise, store, manipulate and
+  retrieve digital content
+
+[National curriculum in computing](https://www.gov.uk/government/publications/national-curriculum-in-england-computing-programmes-of-study/national-curriculum-in-england-computing-programmes-of-study): Key stage 1 (5-7 year olds).
 
 # Undergraduate data science at the University of Birmingham
 
@@ -102,6 +192,10 @@ To follow along:
 
 * CPD to explain pedagogy.
 * Harness commitment from faculty and students.
+
+# The end
+
+Materials at <https://github.com/matthew-brett/ds-rev>
 
 <#ifdef HANDOUT>
 # References
