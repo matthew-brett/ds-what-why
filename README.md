@@ -24,11 +24,17 @@ data science teaching and methods will cause a radical transformation in
 undergraduate education, and that we need to plan for this transformation if we
 are to lead in undergraduate education in the UK.
 
-## Links
+## Slides / handout
 
-Berkeley's introduction to data science course is called "Foundations of Data Science", or "Data 8".
+<https://github.com/matthew-brett/ds-rev/blob/master/ds_rev_edu_handout.pdf>
 
-Their more advanced course is Data 100: Principles and Techniques of Data Science.
+## Other links
+
+Berkeley's introduction to data science course is called "Foundations of Data
+Science", or "Data 8".
+
+Their more advanced course is Data 100: Principles and Techniques of Data
+Science.
 
 * [Data 8 course textbook](https://www.inferentialthinking.com)
 * [Data 8 Berkeley web page](https://data.berkeley.edu/education/courses/data-8)
