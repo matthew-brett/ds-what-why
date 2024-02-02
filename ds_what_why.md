@@ -46,6 +46,12 @@ Data Scientist: The Sexiest Job of the 21st Century, 2012.
     * They weren't data scientists themselves
     * They were not training data-focussed researchers.
 
+# How did it go wrong?
+
+* Learn to code, then data science.
+* Don't learn to understand code, just use it like a recipe.
+* Data science as specialization rather than foundation.
+
 # Greater data science
 
 *  "... embracing a reinvention of statistical education in the era of
